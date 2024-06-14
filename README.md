@@ -1,3 +1,31 @@
+## velodyne (jazzy) - 2.4.0-1
+
+The packages in the `velodyne` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy velodyne --override-release-repository-push-url git@github.com:revyos-ros/velodyne-release.git` on `Fri, 14 Jun 2024 02:18:39 -0000`
+
+These packages were released:
+- `velodyne`
+- `velodyne_driver`
+- `velodyne_laserscan`
+- `velodyne_msgs`
+- `velodyne_pointcloud`
+
+Version of package(s) in repository `velodyne`:
+
+- upstream repository: https://github.com/ros-drivers/velodyne.git
+- release repository: https://github.com/revyos-ros/velodyne-release.git
+- rosdistro version: `2.3.0-4`
+- old version: `2.3.0-4`
+- new version: `2.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## velodyne (humble) - 2.4.0-1
 
 The packages in the `velodyne` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble --track humble --edit velodyne` on `Sat, 27 May 2023 13:21:55 -0000`
